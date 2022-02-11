@@ -1,0 +1,53 @@
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+html {
+    background-color: black;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+video {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    text-align: center;
+}
+
+h2, h3 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+h4 {
+    font-family: Verdana;
+    font-size: 21px;
+    font-weight: 300;
+    color: grey;
+}
+
+footer {
+    font-family: Verdana;
+    font-size: 21px;
+    text-align: right;
+    color: grey;
+}
+
+img, video {
+    padding-top: 20px;
+}
